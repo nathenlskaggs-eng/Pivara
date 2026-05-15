@@ -1,0 +1,8 @@
+--- a/src/chrome/app/theme/chromium/BRANDING
++++ b/src/chrome/app/theme/chromium/BRANDING
+@@ -1,4 +1,4 @@
+-PRODUCT_FULL_NAME=Chromium
+-PRODUCT_SHORT_NAME=Chromium
++PRODUCT_FULL_NAME=Pivara
++PRODUCT_SHORT_NAME=Pivara
+ PRODUCT_INSTALL_CHANNELS=chromium
